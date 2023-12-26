@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E-SOBATI</string>
+    <string name="do_you_want_to_exit">do you want to exit ?</string>
+    <string name="exit">Exit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
